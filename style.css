@@ -1,0 +1,13 @@
+.x{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    text-align: center;
+    font-family: system-ui;
+    flex-direction: column;
+}
+
+span {
+    font-size: 45px;
+}
